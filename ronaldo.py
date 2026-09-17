@@ -1,1 +1,1 @@
-print("ronaldo is not a goat")
+print("ronaldo is a goat")
