@@ -1,0 +1,1 @@
+print("ronaldo is not a goat")
